@@ -43,11 +43,11 @@
 ## 1 Environments
 * Why do I care about this? 
   * Package & version conflicts! Here are common ones:
-    ** OpenCV2 vs ..3
-    ** PyTorch / TensorFlow / Keras / anything CUDA
-    ** Mail (Py2 vs Py3)
-    ** Fast.ai 0.7 vs 1.0
-    ** Everything! 
+    * OpenCV2 vs ..3
+    * PyTorch / TensorFlow / Keras / anything CUDA
+    * Mail (Py2 vs Py3)
+    * Fast.ai 0.7 vs 1.0
+    * Everything! 
 * What's the answer?
   * Install & use a tool to segregate packages into standalone environments
 * Ok. So what are common Python environment managers? 
