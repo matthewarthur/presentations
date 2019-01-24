@@ -16,3 +16,25 @@
 	* Git! GitHub! 
 	* The Easy Dumb Way vs the Elegant Way: Same Outcome
 	* Iterate! Crawl, Walk, Run
+
+
+## How I got Here
+
+### Education
+* Carleton College - History BA (2004)
+* UIUC -- Applied Mathematics (2018)
+
+### Work History
+* SIGINT Analyst / Arabic Linguist @ NSA 
+* Data Privacy Program Manager  @ Corning
+* Security Architect @ Monsanto
+* Compliance & Security Automation @ DataStax
+
+### Certifications
+* CIPP US / CIPP EU
+* CISM
+* AWS CSA - Associate
+
+### Python
+* Data Normalization (Geospatial)
+* 
