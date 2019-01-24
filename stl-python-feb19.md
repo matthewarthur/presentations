@@ -42,7 +42,7 @@
 
 ## 1 Environments
 * Why do I care about this? 
-  * Package & version conflicts! Here are common ones:
+  * Package & version conflicts! Here are ones I've experienced:
     * OpenCV2 vs ..3
     * PyTorch / TensorFlow / Keras / anything CUDA
     * Mail (Py2 vs Py3)
@@ -50,13 +50,29 @@
     * Everything! 
 * What's the answer?
   * Install & use a tool to segregate packages into standalone environments
+    * Get the packages set for a particular dev case and don't muck with it!
 * Ok. So what are common Python environment managers? 
-  * I have used 3, there are probably lots:
-    ** Pipenv, Virtualenv, Anaconda
+  * I have used 3, there are sure more:
+    * Pipenv, Virtualenv, Anaconda
 * Which one is the best?
-  * Conda. Also, spaces.
-* Why? 
+  * Conda, for me. Also, spaces not tabs.
+  * YMMV, just use one
+* Why do I like Conda? 
+  * (Mostly) combines functionality of Pip & Virtualenv
+  * Heavily used in data science community
+  * Not limited to Python
 
 ## 2 Integrated Development Environments (IDEs)
 * Why can't I just script in Nano or Wordpad?
-  * You can. Good luck with that.
+  * You can. Good luck with that. I used N++ on a Windows box for a decade
+* Why do you use an IDE?
+  * Usual reasons. Match ()s, indent, tab completion, troubleshooting, etc
+* What IDEs?
+  * I use VS Code (now), Atom seems fine, there are lots!
+  
+## 3 Jupyter Notebooks!
+* What?
+  * https://jupyter.org/
+  * Open-source browser-based app to work with 40+ languages
+  * Keep eyes open for .ipynb
+  * Huge in data science
