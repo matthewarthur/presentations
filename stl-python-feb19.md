@@ -61,18 +61,31 @@
   * (Mostly) combines functionality of Pip & Virtualenv
   * Heavily used in data science community
   * Not limited to Python
+  * Over 700 packages
 
 ## 2 Integrated Development Environments (IDEs)
 * Why can't I just script in Nano or Wordpad?
-  * You can. Good luck with that. I used N++ on a Windows box for a decade
+  * You can. I used N++ on a Windows box for a decade. There are better ways.
 * Why do you use an IDE?
-  * Usual reasons. Match ()s, indent, tab completion, troubleshooting, etc
+  * Usual reasons: Match ()s & []s, indent properly, autocomplete, error tracing, etc
 * What IDEs?
-  * I use VS Code (now), Atom seems fine, there are lots!
+  * I use VS Code (now), Atom seems fine, there are lots! 
   
 ## 3 Jupyter Notebooks!
-* What?
+* What:
+  * Julia + Python + R
   * https://jupyter.org/
   * Open-source browser-based app to work with 40+ languages
-  * Keep eyes open for .ipynb
+  * Mixture of code, text, graphics
   * Huge in data science
+* Where: 
+  * Anywhere, the same:
+    * Your browser, EC2 instance, IDEs, Kaggle, Docker
+* Functions:
+  * Multiple environments (Py2, Py3, PyTorch, TF)
+  * Rich visuals (matplotlib, LaTex, plotly)
+  * Bash & magic cmomands
+
+## 4 Errors
+* What are they good for?
+
