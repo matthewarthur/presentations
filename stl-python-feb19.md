@@ -103,6 +103,7 @@
    * Loops vs Lambda
      * https://www.programiz.com/python-programming/anonymous-function
      * https://www.geeksforgeeks.org/loops-in-python/
+   * https://www.python.org/dev/peps/pep-0008/
  
 
  
