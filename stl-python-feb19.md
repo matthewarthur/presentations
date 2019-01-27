@@ -14,8 +14,7 @@
   * How to Read Errors
 	* And how to ask questions about these errors
   * Git! GitHub! GitLab! BitBucket! etc.
-  * The Easy Dumb Way vs the Elegant Way: Same Outcome
-  * Iterate! Crawl, Walk, Run
+  * Crawl, Walk, Run
 
 * Things I Need to Learn
   * Jenkins
@@ -89,4 +88,22 @@
 
 ## 4 Errors
 * What are they good for?
+* Example: https://stackoverflow.com/questions/7818811/import-error-no-module-named-numpy
+  * asked 7 years, 3 months ago
+  * viewed 426,222 times
+ * Read the stack trace, look at line numbers, search for the error, read the existing questions
+ 
+ ## 5 Versioning & Repositories
+ * What? 
+ * Why?
+ * Which one?
+ 
+ ## 6 The Easy Dumb Way vs the Elegant Way
+ * aka _The Pythonic Way_ and _The Way I Got It To Work_
+   * Loops vs Lambda
+     * https://www.programiz.com/python-programming/anonymous-function
+     * https://www.geeksforgeeks.org/loops-in-python/
+ 
 
+ 
+ 
