@@ -48,6 +48,7 @@
     * Mail (Py2 vs Py3)
     * Fast.ai 0.7 vs 1.0
     * Everything! 
+    * Examples: https://stackoverflow.com/questions/39315156/how-to-install-xgboost-in-python-on-macos or https://stackoverflow.com/questions/44439443/can-i-pip-install-opencv2-for-python
 * What's the answer?
   * Install & use a tool to segregate packages into standalone environments
     * Get the packages set for a particular dev case and don't muck with it!
