@@ -124,10 +124,14 @@ RuntimeError: Expected object of scalar type Double but got scalar type Float fo
    * More seriously
      * https://www.python.org/dev/peps/pep-0008/
  
-## Next
+## Next Items to Learn
  * CI/CD 
    * Jenkins
+   * Terraform
+ * Containers
    * Docker
+   * Kubernetes
    * Packer
-
+ * Other
+   * Argo
  
