@@ -14,7 +14,7 @@
   * How to Read Errors
 	* And how to ask questions about these errors
   * Git! GitHub! GitLab! BitBucket! etc.
-  * Crawl, Walk, Run
+  * Crawl, Walk, Run (How to code Pythonically)
 
 * Things I Need to Learn
   * Jenkins
@@ -92,19 +92,42 @@
   * asked 7 years, 3 months ago
   * viewed 426,222 times
  * Read the stack trace, look at line numbers, search for the error, read the existing questions
+ * Another example: 
+
+```
+/opt/conda/lib/python3.6/site-packages/torch/nn/functional.py in linear(input, weight, bias)
+   1352         ret = torch.addmm(torch.jit._unwrap_optional(bias), input, weight.t())
+   1353     else:
+-> 1354         output = input.matmul(weight.t())
+   1355         if bias is not None:
+   1356             output += torch.jit._unwrap_optional(bias)
+
+RuntimeError: Expected object of scalar type Double but got scalar type Float for argument #2 'mat2'
+```
+   * https://discuss.pytorch.org/search?q=Expected%20object%20of%20scalar%20type%20Double%20but%20got%20scalar%20type
+
  
  ## 5 Versioning & Repositories
  * What? 
+   * A place to store, share, deploy code (while tracking changes)
  * Why?
+   * So many reasons!
  * Which one?
+   * Options: GitHub, GitLab, BitBucket, AWS CodeCommit, SourceForge, Gitea, Phabricator, etc.
+   * Whichever your team / role model / sector uses? 
  
  ## 6 The Easy Dumb Way vs the Elegant Way
  * aka _The Pythonic Way_ and _The Way I Got It To Work_
-   * Loops vs Lambda
-     * https://www.programiz.com/python-programming/anonymous-function
+   * Ex: Loops vs Lambda
      * https://www.geeksforgeeks.org/loops-in-python/
-   * https://www.python.org/dev/peps/pep-0008/
+     * https://www.programiz.com/python-programming/anonymous-function
+   * More seriously
+     * https://www.python.org/dev/peps/pep-0008/
  
+## Next
+ * CI/CD 
+   * Jenkins
+   * Docker
+   * Packer
 
- 
  
