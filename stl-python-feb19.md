@@ -131,16 +131,13 @@ RuntimeError: Expected object of scalar type Double but got scalar type Float fo
  * Other
  
 ## Next Items to Learn
- * CI/CD 
-   * Jenkins
+ * Infrastructure-as-Code
    * Terraform
  * Containers
    * Docker
    * Kubernetes
-   * Packer
  * Other
-   * Argo
+   * Spark
    * Pytorch
    * Regex
-   * Unix
  
