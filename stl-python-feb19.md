@@ -15,6 +15,7 @@
 	* And how to ask questions about these errors
   * Git! GitHub! GitLab! BitBucket! etc.
   * Crawl, Walk, Run (How to code Pythonically)
+  * Work With Others
 
 * Things I Need to Learn
   * Jenkins
@@ -123,6 +124,11 @@ RuntimeError: Expected object of scalar type Double but got scalar type Float fo
      * https://www.programiz.com/python-programming/anonymous-function
    * More seriously
      * https://www.python.org/dev/peps/pep-0008/
+
+## 7 Collaboration
+ * Forums
+ * StackOverflow
+ * Other
  
 ## Next Items to Learn
  * CI/CD 
@@ -134,4 +140,7 @@ RuntimeError: Expected object of scalar type Double but got scalar type Float fo
    * Packer
  * Other
    * Argo
+   * Pytorch
+   * Regex
+   * Unix
  
