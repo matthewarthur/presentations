@@ -31,13 +31,14 @@
 
 ### Work History
 * SIGINT Analyst / Arabic Linguist @ NSA 
+  * !اهلاً
 * Data Privacy @ Corning
-* Cloud Security Architect @ Monsanto
+* Cloud Security @ Monsanto
 * Compliance & Security Automation @ DataStax
 
 ### Python History
 * Data Normalization (Geospatial)
-* Machine Learning & Deep Learning
+* Machine Learning / Deep Learning
 * Lambda Lambda Lambda
 
 ## 1 Environments
