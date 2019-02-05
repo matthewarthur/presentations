@@ -15,12 +15,8 @@
 	* And how to ask questions about these errors
   * Git! GitHub! GitLab! BitBucket! etc.
   * Crawl, Walk, Run (How to code Pythonically)
-  * Work With Others
-
+  * Working With Others
 * Things I Need to Learn (Python Adjacent)
-  * Terraform
-  * Docker
-  * Packer
 
 
 ## How I got Here
@@ -44,7 +40,7 @@
 * Machine Learning / Deep Learning
 * Lambda
 
-## 1 Environments
+# 1 Environments
 * Why do I care about this? 
   * Package & version conflicts! Here are ones I've experienced:
     * OpenCV2 vs ..3
@@ -68,7 +64,7 @@
   * Not limited to Python
   * Over 700 packages
 
-## 2 Integrated Development Environments (IDEs)
+# 2 Integrated Development Environments (IDEs)
 * Why can't I just script in Nano or Wordpad?
   * You can. I used N++ on a Windows box for a decade. There are better ways.
 * Why do you use an IDE?
@@ -77,7 +73,7 @@
   * I use VS Code (now), Atom seems fine, I didn't like Pycharm
     * There are lots! 
   
-## 3 Jupyter Notebooks!
+# 3 Jupyter Notebooks!
 * What:
   * Julia + Python + R
   * https://jupyter.org/
@@ -96,7 +92,7 @@
   * https://nbviewer.jupyter.org/url/finiterank.com/cuadernos/suavesylocas.ipynb
     * Both from https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks
 
-## 4 Errors
+# 4 Errors
 * What are they good for?
 * Example: https://stackoverflow.com/questions/7818811/import-error-no-module-named-numpy
   * asked 7 years, 3 months ago
@@ -118,7 +114,7 @@ RuntimeError: Expected object of scalar type Double but got scalar type Float fo
  * Bad! https://stackoverflow.com/questions/54522426/i-was-training-the-lstm-network-using-pytorch-and-encountered-this-error
  * Opportunity for collaboration as well as skill development
  
- ## 5 Versioning & Repositories
+ # 5 Versioning & Repositories
  * What? 
    * A place to store, share, deploy code (while tracking changes)
  * Why?
@@ -130,7 +126,7 @@ RuntimeError: Expected object of scalar type Double but got scalar type Float fo
    * https://guides.github.com/introduction/flow/
    * Ask another dev what they do
 
- ## 6 The Easy Dumb Way vs the Elegant Way
+ # 6 The Easy Dumb Way vs the Elegant Way
  * aka _The Pythonic Way_ and _The Way I Got It To Work_
    * Ex: Loops vs Lambda
      * https://www.geeksforgeeks.org/loops-in-python/
@@ -138,23 +134,31 @@ RuntimeError: Expected object of scalar type Double but got scalar type Float fo
    * More seriously
      * https://www.python.org/dev/peps/pep-0008/
 
-## 7 Collaboration
+# 7 Collaboration
  * Domain-Specific Forums
  * StackOverflow
  * OSS Contributions
  * GH Issues
  * Other
  
-## Next Items to Learn
+# Next Items to Learn
+
+### Python
+ * Classes
+ * Theory, generally
+ 
+### Not Python
  * Infrastructure-as-Code
    * Terraform
+   * Spinnaker?
  * Containers
    * Docker
-   * Kubernetes
+   * Kubernetes (K8s)
  * Other
    * Spark
    * Data Viz
-     * R's GGPlot to ?Plotly?
+     * R's GGPlot equivalent: ?Plotly?
    * Regex
+   
  
  
