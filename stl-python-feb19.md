@@ -37,6 +37,9 @@
 * Compliance & Security Automation @ DataStax
 
 ### Python History
+![My Python in a Nutshell]
+(https://i.pinimg.com/originals/53/be/34/53be34c987b10821f7c10b9d88436b92.jpg)
+
 * Data Normalization (Geospatial)
 * Machine Learning / Deep Learning
 * Lambda Lambda Lambda
