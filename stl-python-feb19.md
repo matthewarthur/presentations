@@ -115,7 +115,8 @@
 RuntimeError: Expected object of scalar type Double but got scalar type Float for argument #2 'mat2'
 ```
    * https://discuss.pytorch.org/search?q=Expected%20object%20of%20scalar%20type%20Double%20but%20got%20scalar%20type
-  * Opportunity for collaboration as well as skill development
+ * Bad! https://stackoverflow.com/questions/54522426/i-was-training-the-lstm-network-using-pytorch-and-encountered-this-error
+ * Opportunity for collaboration as well as skill development
  
  ## 5 Versioning & Repositories
  * What? 
