@@ -17,8 +17,8 @@
   * Crawl, Walk, Run (How to code Pythonically)
   * Work With Others
 
-* Things I Need to Learn
-  * Jenkins
+* Things I Need to Learn (Python Adjacent)
+  * Terraform
   * Docker
   * Packer
 
@@ -27,7 +27,7 @@
 
 ### Education
 * Carleton College - History BA (2004)
-* UIUC -- Applied Mathematics (2018)
+* University of Illinois Urbana-Champaign -- Applied Mathematics (2018)
 
 ### Work History
 * SIGINT Analyst / Arabic Linguist @ NSA 
@@ -42,7 +42,7 @@
 
 * Data Normalization (Geospatial)
 * Machine Learning / Deep Learning
-* Lambda Lambda Lambda
+* Lambda
 
 ## 1 Environments
 * Why do I care about this? 
@@ -74,7 +74,8 @@
 * Why do you use an IDE?
   * Usual reasons: Match ()s & []s, indent properly, autocomplete, error tracing, etc
 * What IDEs?
-  * I use VS Code (now), Atom seems fine, there are lots! 
+  * I use VS Code (now), Atom seems fine, I didn't like Pycharm
+    * There are lots! 
   
 ## 3 Jupyter Notebooks!
 * What:
@@ -90,6 +91,10 @@
   * Multiple environments (Py2, Py3, PyTorch, TF)
   * Rich visuals (matplotlib, LaTex, plotly)
   * Bash & magic cmomands
+* Examples:
+  * https://nbviewer.jupyter.org/github/carljv/Will_it_Python/blob/master/ARM/ch5/arsenic_wells_switching.ipynb
+  * https://nbviewer.jupyter.org/url/finiterank.com/cuadernos/suavesylocas.ipynb
+    * Both from https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks
 
 ## 4 Errors
 * What are they good for?
@@ -110,7 +115,7 @@
 RuntimeError: Expected object of scalar type Double but got scalar type Float for argument #2 'mat2'
 ```
    * https://discuss.pytorch.org/search?q=Expected%20object%20of%20scalar%20type%20Double%20but%20got%20scalar%20type
-
+  * Opportunity for collaboration as well as skill development
  
  ## 5 Versioning & Repositories
  * What? 
@@ -119,8 +124,11 @@ RuntimeError: Expected object of scalar type Double but got scalar type Float fo
    * So many reasons!
  * Which one?
    * Options: GitHub, GitLab, BitBucket, AWS CodeCommit, SourceForge, Gitea, Phabricator, etc.
-   * Whichever your team / role model / sector uses? 
- 
+     * Whichever your team / role model / sector uses? 
+ * Best Practices!
+   * https://guides.github.com/introduction/flow/
+   * Ask another dev what they do
+
  ## 6 The Easy Dumb Way vs the Elegant Way
  * aka _The Pythonic Way_ and _The Way I Got It To Work_
    * Ex: Loops vs Lambda
@@ -130,8 +138,10 @@ RuntimeError: Expected object of scalar type Double but got scalar type Float fo
      * https://www.python.org/dev/peps/pep-0008/
 
 ## 7 Collaboration
- * Forums
+ * Domain-Specific Forums
  * StackOverflow
+ * OSS Contributions
+ * GH Issues
  * Other
  
 ## Next Items to Learn
@@ -142,6 +152,8 @@ RuntimeError: Expected object of scalar type Double but got scalar type Float fo
    * Kubernetes
  * Other
    * Spark
-   * Pytorch
+   * Data Viz
+     * R's GGPlot to ?Plotly?
    * Regex
+ 
  
