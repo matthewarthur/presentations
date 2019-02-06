@@ -160,5 +160,19 @@ RuntimeError: Expected object of scalar type Double but got scalar type Float fo
      * R's GGPlot equivalent: ?Plotly?
    * Regex
    
- 
+ # Notes from Conversation
+  * Regex: 
+     * https://pythex.org/
+  * Web App Dev:
+     * Anvil: https://anvil.works/
+  * Mesh: 
+     * Istio
+  * iPython: 
+     * https://stackoverflow.com/questions/12370457/what-is-the-difference-between-python-and-ipython
+     * https://plot.ly/python/ipython-vs-python/
+     * https://www.pythonforbeginners.com/basics/ipython-a-short-introduction
+  * Data Viz: 
+     * Bokeh:
+        * https://bokeh.pydata.org/en/latest/
+	* https://github.com/bokeh/bokeh
  
